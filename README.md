@@ -1,0 +1,5 @@
+The projects focus on backend-driven solutions for industrial automation and data management. 
+1. Conveyor Monitoring & Control System: Developed using Ignition SCADA, this system monitors conveyor motor parameters (RPM, voltage) and stores data in a MySQL database for real-time status updates and troubleshooting. Enables controls for On/Off or Manual movement.
+2. Modern Coach Factory Maintenance Module: A ticketing system for tracking machine upkeep, with a backend database for storing and managing maintenance tickets, improving machine reliability and operational productivity. Also displays a consolidated report of the machines and tickets for Analysis and proper measures to prevent breakdowns
+3. Enterprise Data Management System: Designed to process and validate Excel data via Openpyxl in Python. The backend validates data integrity (emails, phone numbers, etc.) and stores it in stage/master tables, ensuring clean data entry. 
+4. Reports Dashboard: Developed using ECharts and MongoDB, this dashboard visualizes KPIs and production metrics. MongoDB aggregation pipelines dynamically populate interactive graphs, aiding data-driven report generation.
